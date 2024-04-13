@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\carWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\carWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\mega_menu.css",
+      "PackagePath": "staticwebassets\\css\\mega_menu.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\settings.css",
+      "PackagePath": "staticwebassets\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\.keep",
+      "PackagePath": "staticwebassets\\images\\.keep"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\bg\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\asas.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\asas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\dsd.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\dsd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\bg\\ss.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\ss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\blog\\01.png",
+      "PackagePath": "staticwebassets\\images\\blog\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car-focus.png",
+      "PackagePath": "staticwebassets\\images\\car-focus.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car.png",
+      "PackagePath": "staticwebassets\\images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\18.png",
+      "PackagePath": "staticwebassets\\images\\car\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\car\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\a1.png",
+      "PackagePath": "staticwebassets\\images\\car\\a1.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\a2.png",
+      "PackagePath": "staticwebassets\\images\\car\\a2.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\a3.png",
+      "PackagePath": "staticwebassets\\images\\car\\a3.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b4.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b5.mp4",
+      "PackagePath": "staticwebassets\\images\\car\\b5.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\b6.mp4",
+      "PackagePath": "staticwebassets\\images\\car\\b6.mp4"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\c4.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\car\\c5.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\objects\\01.png",
+      "PackagePath": "staticwebassets\\images\\objects\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\objects\\02.png",
+      "PackagePath": "staticwebassets\\images\\objects\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\objects\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\objects\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\objects\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\objects\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\slider\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\slider\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\slider\\back-road.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\back-road.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\slider\\left-car.png",
+      "PackagePath": "staticwebassets\\images\\slider\\left-car.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\slider\\right-car.png",
+      "PackagePath": "staticwebassets\\images\\slider\\right-car.png"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\team\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\team\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\team\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\team\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\team\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\team\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\testimonial\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\testimonial\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\testimonial\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\testimonial\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\images\\testimonial\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\testimonial\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\mega_menu.js",
+      "PackagePath": "staticwebassets\\js\\mega_menu.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\vendor\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\jquery.revolution.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aryab\\Downloads\\carWeb - Copy\\carWeb - Copy\\carWeb\\wwwroot\\vendor\\jquery.tools.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.tools.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.carWeb.props",
+      "PackagePath": "build\\carWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.carWeb.props",
+      "PackagePath": "buildMultiTargeting\\carWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.carWeb.props",
+      "PackagePath": "buildTransitive\\carWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.carWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

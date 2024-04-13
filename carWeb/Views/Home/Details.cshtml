@@ -1,0 +1,64 @@
+﻿@model IEnumerable<carWeb.Models.CarModel>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-12 mb-3 mb-lg-5" style="margin: 100px 0px 30px">
+        <div class="overflow-hidden card table-nowrap table-card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">New Cars</h5>
+                <a href="#!" class="btn btn-light btn-sm">View All</a>
+            </div>
+            <div class="table-responsive">
+                <table class="table mb-0">
+                    <thead class="small text-uppercase bg-body text-muted">
+                        <tr>
+                            <th>Name</th>
+                            <th>Model</th>
+                            <th>Mileage</th>
+                            <th>₹ Price</th>
+                            <th>Manufacture Year</th>
+                            <th>Country</th>
+                            <th class="text-end">Action</th>
+                        </tr>
+                    </thead>
+                @foreach (var item in Model)
+    {
+                    <tbody>
+                        <tr class="align-middle">
+                            
+                                
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item._Model)
+                                </td>
+                                <td> <span class="d-inline-block align-middle">@Html.DisplayFor(modelItem => item.Milage)</span></td>
+                               
+                                <td><span> @Html.DisplayFor(modelItem => item.Price)</span></td>
+                                <td>@Html.DisplayFor(modelItem => item.MfgDate)</td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Country)
+                                </td>
+                            <td class="text-end">
+                                <div class="drodown">
+                                    <a data-bs-toggle="dropdown" href="#" class="btn p-1" aria-expanded="false">
+                                        <i class="fa fa-bars" aria-hidden="true"></i>
+                                    </a>
+                                    <div class="dropdown-menu dropdown-menu-end" style="">
+                                            @Html.ActionLink("Edit", "Edit", new {  id = item.Id  })
+                                            <br>    
+                                            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                    </div>
+                                </div>  
+                            </td>
+                        </tr>
+                       
+                    </tbody>
+            }
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

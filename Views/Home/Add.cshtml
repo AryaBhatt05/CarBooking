@@ -1,0 +1,109 @@
+﻿@model carWeb.Models.CarModel;
+
+@{
+    ViewData["Title"] = "Add Car";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.css" integrity="sha256-NAxhqDvtY0l4xn+YVa6WjAcmd94NNfttjNsDmNatFVc=" crossorigin="anonymous" />
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<div class="container">
+    <form asp-action="Add">
+
+        <div class="row">
+            <div class="col-xl-8" style="margin-top: 100px">
+
+                <div class="card">
+                    <div class="card-body">
+                        <ol class="activity-checkout mb-0 px-4 mt-3">
+                            <li class="checkout-item">
+                                <div class="avatar checkout-icon p-1">
+                                    <div class="avatar-title rounded-circle bg-primary">
+                                        <i class="bx bxs-receipt text-white font-size-20"></i>
+                                    </div>
+                                </div>
+                                <div class="feed-item-list">
+                                    <div>
+                                        <h5 class="font-size-16 mb-1">Vehicle Info</h5>
+                                        <p class="text-muted text-truncate mb-4">Add Vehicle Details</p>
+                                        <div class="mb-3">
+                                            <div>
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label class="form-label" for="billing-name">Name</label>
+                                                            <input asp-for="Name" type="text" class="form-control" id="billing-name" placeholder="Enter name">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label class="form-label" for="billing-email-address">Model</label>
+                                                            <input asp-for="_Model" type="text" class="form-control" id="billing-email-address" placeholder="Enter Model">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-3">
+                                                            <label class="form-label" for="billing-phone">Mileage</label>
+                                                            <input asp-for="Milage" type=" number" class="form-control" id="billing-phone" placeholder="Enter Mileage">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-4 mb-lg-0">
+                                                            <label class="form-label">Country</label>
+                                                            <select class="form-control form-select" title="Country" asp-for="Country">
+                                                                <option value="0">Select Country</option>
+                                                                <option value="IND">India</option>
+                                                                <option value="USA">United States of America</option>
+                                                                <option value="GER">Germany</option>
+                                                                <option value="CN">China</option>
+                                                                <option value="UK">United Kingdom</option>
+                                                                
+                                                            </select>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-4 mb-lg-0">
+                                                            <label class="form-label" for="billing-city">₹ Price </label>
+                                                            <input asp-for="Price" type="text" class="form-control" id="billing-city" placeholder="Enter Price ₹">
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-4">
+                                                        <div class="mb-0">
+                                                            <label class="form-label" for="zip-code">Manufacturing Date</label>
+                                                            <input asp-for="MfgDate" type="text" class="form-control" id="zip-code" placeholder="Enter Manufacturing Date">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="checkout-item">
+                                <div class="avatar checkout-icon p-1">
+                                    <div class="avatar-title rounded-circle bg-primary">
+                                        <i class="bx bxs-truck text-white font-size-20"></i>
+                                    </div>
+                                </div>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+
+                <div class="row my-4">
+                    <div class="col">
+                        <div class="text-end mt-2 mt-sm-0">
+                            <input type="submit" class="btn btn-success mdi mdi-cart-outline me-1" value="Procced">
+                        </div>
+                    </div> <!-- end col -->
+                </div> <!-- end row-->
+            </div>
+        </div>
+        <!-- end row -->
+
+    </form>
+</div>

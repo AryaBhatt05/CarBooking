@@ -1,0 +1,204 @@
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.staticwebassets.runtime.json
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.exe
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.deps.json
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.runtimeconfig.json
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\carWeb.pdb
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfoInputs.cache
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfo.cs
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.csproj.CoreCompileInputs.cache
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cache
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cs
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.carWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.carWeb.props
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.carWeb.props
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.carWeb.props
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\scopedcss\bundle\carWeb.styles.css
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\scopedcss\projectbundle\carWeb.bundle.scp.css
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.dll
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\refint\carWeb.dll
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.pdb
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.genruntimeconfig.cache
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\ref\carWeb.dll
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.csproj.AssemblyReference.cache
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\FireSharp.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aryab\source\repos\carWeb\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\aryab\source\repos\carWeb\obj\Debug\net6.0\carWeb.csproj.CopyComplete
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.exe
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.deps.json
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.runtimeconfig.json
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\carWeb.pdb
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\FireSharp.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfo.cs
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.carWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.carWeb.props
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.carWeb.props
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.carWeb.props
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\scopedcss\bundle\carWeb.styles.css
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\scopedcss\projectbundle\carWeb.bundle.scp.css
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.csproj.CopyComplete
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\refint\carWeb.dll
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.pdb
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\carWeb.genruntimeconfig.cache
+C:\Users\DELL\Downloads\carWeb\carWeb\obj\Debug\net6.0\ref\carWeb.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.staticwebassets.runtime.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.exe
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.deps.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.runtimeconfig.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\carWeb.pdb
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\FireSharp.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.csproj.AssemblyReference.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfoInputs.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.AssemblyInfo.cs
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.csproj.CoreCompileInputs.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.RazorAssemblyInfo.cs
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.carWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.carWeb.props
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.carWeb.props
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.carWeb.props
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\scopedcss\bundle\carWeb.styles.css
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\scopedcss\projectbundle\carWeb.bundle.scp.css
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.csproj.CopyComplete
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\refint\carWeb.dll
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.pdb
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\carWeb.genruntimeconfig.cache
+C:\Users\aryab\Downloads\carWeb - Copy\carWeb - Copy\carWeb\obj\Debug\net6.0\ref\carWeb.dll

@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - carWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/carWeb.styles.css" asp-append-version="true" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />
+    <link rel="shortcut icon" href="~/images/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="~/style.css" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="Car Dealer - The Best Car Dealer Automotive Responsive HTML5 Template" />
+    <meta name="author" content="potenzaglobalsolutions.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>Concept Car Dealer - Free Website Template</title>
+</head>
+<body>
+    <div id="loading">
+        <div id="loading-center">
+            <img src="images/loader.gif" alt="">
+        </div>
+    </div>
+    <header id="header" class="defualt">
+        <div class="menu">
+            <nav id="menu" class="mega-menu menu-list-items">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <ul class="menu-logo">
+                                <li>
+                                    <a href="index.html"><img id="logo_img" src="~/images/logo-light.png" alt="logo"> </a>
+                                </li>
+                            </ul>
+                            <ul class="menu-links">
+                                <li class="active"><a asp-action="Index" asp-controller="Home">Home</a></li>
+                                <li><a asp-action="Details" asp-controller="Home">Details</a></li>
+                                <li><a asp-action="Add" asp-controller="Home">Add Cars</a></li>
+                                <li><a asp-action="Gallery" asp-controller="Home">Gallery</a></li>
+                                <li><a asp-action="Contact" asp-controller="Home">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <div class="car-top">
+        <span><img src="images/car.png" alt=""></span>
+    </div>
+    <script type="text/javascript" src="~/js/jquery.min.js"></script>
+    <script type="text/javascript" src="~/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/js/mega_menu.js"></script>
+    <script type="text/javascript" src="~/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="~/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="~/js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="~/vendor/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="~/vendor/jquery.revolution.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="~/vendor/extensions/revolution.extension.slideanims.min.js"></script>
+
+    <script type="text/javascript" src="~/js/custom.js"></script>
+    <script type="text/javascript">(function (b) { var a = jQuery; var c; a(document).ready(function () { if (a("#rev_slider_2_1").revolution == undefined) { revslider_showDoubleJqueryError("#rev_slider_2_1") } else { c = a("#rev_slider_2_1").show().revolution({ sliderType: "standard", sliderLayout: "fullwidth", dottedOverlay: "none", delay: 9000, navigation: { keyboardNavigation: "off", keyboard_direction: "horizontal", mouseScrollNavigation: "off", mouseScrollReverse: "default", onHoverStop: "off", bullets: { enable: true, hide_onmobile: false, style: "hermes", hide_onleave: false, direction: "horizontal", h_align: "center", v_align: "bottom", h_offset: 0, v_offset: 50, space: 10, tmp: "" } }, visibilityLevels: [1240, 1024, 778, 480], gridwidth: 1570, gridheight: 1000, lazyType: "none", shadow: 0, spinner: "spinner3", stopLoop: "off", stopAfterLoops: -1, stopAtSlide: -1, shuffle: "off", autoHeight: "off", disableProgressBar: "on", hideThumbsOnMobile: "off", hideSliderAtLimit: 0, hideCaptionAtLimit: 0, hideAllCaptionAtLilmit: 0, debugMode: false, fallbacks: { simplifyAll: "off", nextSlideOnWindowFocus: "off", disableFocusListener: false, } }) } }) })(jQuery);</script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
